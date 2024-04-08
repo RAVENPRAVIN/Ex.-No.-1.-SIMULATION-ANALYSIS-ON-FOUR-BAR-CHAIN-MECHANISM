@@ -57,8 +57,8 @@
 
 
 
-### Name:Kavinraja D
-### Register Number: 212222240047
+### Name:PRAVIN KUMAR A.
+### Register Number: 212223230155
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
