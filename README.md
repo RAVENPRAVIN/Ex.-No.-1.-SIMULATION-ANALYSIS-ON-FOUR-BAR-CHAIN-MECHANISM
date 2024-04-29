@@ -57,7 +57,7 @@
 
 
 
-### Name:PRAVIN KUMAR A.
+### Name:PRAVIN KUMAR A
 ### Register Number: 212223230155
 
 ## RESULT:
